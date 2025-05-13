@@ -1,0 +1,4 @@
+/.env
+/.venv
+/sound_metadata.json
+/tagged_sound_metadata.json
